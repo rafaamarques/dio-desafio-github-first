@@ -6,3 +6,4 @@ Comandos basicos git:
 git status (mostra o status atual da pasta e arquivos)
 git add . (adiciona o arquivo solicitado ao stage)
 git push origin main (envia o arquivo para o repositório no GitHub)
+git commit -m "" (adiciona commit e comentário sobre a alteração)
